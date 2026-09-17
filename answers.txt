@@ -3,3 +3,4 @@
 Cons: Requirements may not be fixed so stages could be more tedious to plan. Could take longer to implement since customers can make changes. 
 
 Non-agile development can be riskier and less efficient. No value to the customer until the end.
+
