@@ -15,3 +15,12 @@ Product Owner: Handles releases and stakeholder management as well as sets direc
 Daily Scrum/Standup Meeting: Team members discuss work completed and meeting is short 10 minutes that happens every day of the sprint.
 
 Sprint Retrospective Meeting: Happens at the end of the sprint and team members discuss work complete and move incomplete work to backlog.
+
+
+(4) Epic: Captures a large body of work that can be broken down into several smaller stories.
+
+Story: A software system requirement that is expressed in a few short sentences.
+
+Bug: A problem which impairs or prevents the functions of a product.
+
+Task: Represents work that needs to be done.
