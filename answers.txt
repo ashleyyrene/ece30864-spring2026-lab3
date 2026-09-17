@@ -3,7 +3,3 @@
 Cons: Requirements may not be fixed so stages could be more tedious to plan. Could take longer to implement since customers can make changes. 
 
 Non-agile development can be riskier and less efficient. No value to the customer until the end.
-
-(b) Scrum Master: Handles all scrum related tasks including Jira tooling, facilitating sprints and meetings, etc.
-
-Product Owner: Handles releases and stakeholder management as well as sets direction for the team.
