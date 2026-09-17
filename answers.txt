@@ -4,6 +4,14 @@ Cons: Requirements may not be fixed so stages could be more tedious to plan. Cou
 
 Non-agile development can be riskier and less efficient. No value to the customer until the end.
 
+
 (b) Scrum Master: Handles all scrum related tasks including Jira tooling, facilitating sprints and meetings, etc.
 
 Product Owner: Handles releases and stakeholder management as well as sets direction for the team.
+
+
+(c) Sprint Planning Meeting: Starts the sprint and determines what to complete in the coming sprint.
+
+Daily Scrum/Standup Meeting: Team members discuss work completed and meeting is short 10 minutes that happens every day of the sprint.
+
+Sprint Retrospective Meeting: Happens at the end of the sprint and team members discuss work complete and move incomplete work to backlog.
